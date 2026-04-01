@@ -59,7 +59,6 @@
 
 ---
 
-## About the Author
-I specialize in building production-ready AI tools that solve real-world business problems. If you're looking for custom data extraction solutions or AI integrations, feel free to reach out via RaketPh.
+## Author
+Au Amores
 
-**Follow me for more AI-powered products!**
