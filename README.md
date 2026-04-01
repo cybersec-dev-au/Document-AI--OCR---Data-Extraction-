@@ -6,12 +6,12 @@
 **DocuScan AI** is a professional, AI-powered solution for extracting structured data from business documents. Built with modern OCR technologies and a high-end web interface, it allows users to transform scanned invoices, receipts, and forms into clean, actionable digital data (JSON/Excel) in seconds.
 
 ## Key Features
-- 🚀 **AI-Powered OCR**: High-accuracy text extraction using state-of-the-art models (PaddleOCR).
-- 📅 **Field Extraction**: Automatically detects Vendor names, Dates, Total Amounts, and Line Items.
-- 🎨 **Premium UI**: Modern, responsive glassmorphism design that "wows" clients.
-- 📊 **Data Export**: Copy extracted data to the clipboard or export for use in accounting software.
-- 📂 **Multi-Format Support**: Works seamlessly with JPEG, PNG, and PDF files.
-- ⚡ **Fast & Lightweight**: Built with FastAPI and Vanilla JS for maximum efficiency.
+-  **AI-Powered OCR**: High-accuracy text extraction using state-of-the-art models (PaddleOCR).
+-  **Field Extraction**: Automatically detects Vendor names, Dates, Total Amounts, and Line Items.
+-  **Premium UI**: Modern, responsive glassmorphism design that "wows" clients.
+-  **Data Export**: Copy extracted data to the clipboard or export for use in accounting software.
+-  **Multi-Format Support**: Works seamlessly with JPEG, PNG, and PDF files.
+-  **Fast & Lightweight**: Built with FastAPI and Vanilla JS for maximum efficiency.
 
 ## Use Cases
 - **Accounting Automation**: Reduce manual data entry for bookkeepers.
